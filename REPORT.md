@@ -6,7 +6,7 @@ In this project I implemented and benchmarked three matrix multiplication algori
 
 - naive matrix multiplication
 - Strassen algorithm
-- AlphaEvolve (48-multiplication 4x4 kernel)
+- AlphaEvolve (48-multiplication 4x4 kernel) - please not that this is a true AlphaEvolve ONLY for 4x4. For the rest, it's unfortunately a cube. I didn't manage to fix up the right version in time
 
 The goal was to compare their real performance and the real number of arithmetic operations, not only asymptotic complexity.
 
