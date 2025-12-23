@@ -13,7 +13,7 @@ The goal was to compare their real performance and the real number of arithmetic
 All experiments were run on Linux (Debian).  
 Results are exported to CSV and visualized with Python.
 
-Don't forget to look at the plots after reading this report.
+Don't forget to look at the plots after reading this report. Also, please note the crazy way I implemented counting the operations with inline, constexpr and templates in an effort to not hurt the perfomance of the program.
 
 ---
 
