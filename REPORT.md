@@ -92,8 +92,6 @@ Properties:
 - Implemented as a blocked algorithm for larger matrices
 - Padding is used for sizes not divisible by 4
 
-This implementation uses the exact formulas from the provided alpha48.c file.
-
 ---
 
 ## Correctness
