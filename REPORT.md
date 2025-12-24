@@ -124,7 +124,7 @@ This happens because:
 
 - Naive has the largest number of multiplications and additions.
 - Strassen significantly reduces multiplications.
-- AlphaEvolve reduces multiplications even further.
+- AlphaEvolve reduces multiplications even further (for 4x4).
 
 However:
 - Fewer multiplications does not mean faster execution.
